@@ -1,5 +1,5 @@
 <body style="background-color:#FFFFEE;">
-<p style="text-align: center;"><span style="font-size: 50pt; color: #996600;">猿山連合軍</p>
+<p style="text-align: center;"><span style="font-size: 50pt; color: #996600;">チーム脳</p>
 <p style="text-align: center;">中西勇人　村上輝　中金拓也　濱田優香</P>
 <p style="text-align: center;"> </p>
 <p style="text-align: center;"> </p>
